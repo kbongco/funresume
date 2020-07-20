@@ -1,0 +1,27 @@
+"bin": {
+  "your-command-here": "./index.js"
+},
+
+{
+  "name": "Kathleen Bongco",
+  "website": "http://kbongco.github.io",
+  "linkedin": "https://www.linkedin.com/in/kathleen-bongco-11843197/",
+  "github": "kbongco",
+  "email": "kathleen.bongco@gmail.com",
+  "resume": "https://docs.google.com/document/d/1dCa9QHcdrGHr_39axFVAgQlLAirY3qareSI3zR-6T5U/edit?usp=sharing",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Python",
+      "Flask",
+      "SQL",
+      "HTML",
+      "CSS",
+  ],
+  "otherSkills":[
+    "Permanent Resident at TA Hours",
+    "Founder of the OH NO Crew",
+    "Probably can lift more than you :)"
+  ]
+
+}
